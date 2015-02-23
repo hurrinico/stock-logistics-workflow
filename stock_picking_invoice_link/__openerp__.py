@@ -41,6 +41,7 @@ Authors
     "data": [
         "stock_view.xml",
         "account_invoice_view.xml",
+        "views/report_invoice.xml"
     ],
     "demo": [],
     'test': [],
